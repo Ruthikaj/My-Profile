@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
-<h3 align="center">https://github.com/Sanket-0510/Sanket-0510/blob/main/github_banner.png</h3>
+
 
 - 🔭 Currently working **on Devops and Mern Stack**
 
-- 🌱 I’m currently learning more about **Cloud Computing**
+- 🌱 I’m currently learning more about **Cloud Computing and exploring LLM **
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
