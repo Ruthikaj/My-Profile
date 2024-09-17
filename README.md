@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
-<h3 align="center">https://github.com/Sanket-0510/Sanket-0510/blob/main/github_banner.png</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthika&label=Profile%20views&color=0e75b6&style=flat" alt="ruthika" /> </p>
+
+
 
 - 🔭 Currently working **on Devops and Mern Stack**
 
