@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
-<h3 align="center">A CSE undergraduate | Front - end Developer</h3>
+<h3 align="center">A software undergraduate | Front - end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthika&label=Profile%20views&color=0e75b6&style=flat" alt="ruthika" /> </p>
 
