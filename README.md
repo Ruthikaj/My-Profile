@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthika&label=Profile%20views&color=0e75b6&style=flat" alt="ruthika" /> </p>
+<h3 align="center">A CSE undergraduate | Front - end Developer</h3>
 
 - 🔭 Currently working **on Devops and Mern Stack**
 
@@ -15,19 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/.ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=".ruthika" height="30" width="40" /></a>
 <a href="https://twitter.com/ruthika_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruthika_j" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ruthika-j-974590280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruthika-j-974590280" height="30" width="40" /></a>
 <a href="https://kaggle.com/ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ruthika" height="30" width="40" /></a>
-<a href="https://instagram.com/ruthika_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruthika_j" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ruthika" height="30" width="40" /></a>
 <a href="https://medium.com/@ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ruthika" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ruthika" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ruthika_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ruthika_j" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruthika" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ruthika" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/@takeuforward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@takeuforward" height="30" width="40" /></a>
-<a href="/@ruthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="@ruthika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,8 +29,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ruthika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruthika" /></a><a href="https://ko-fi.com/ruthika"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ruthika" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthika&show_icons=true&locale=en" alt="ruthika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthika&" alt="ruthika" /></p>
 
