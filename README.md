@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
-<h3 align="center">A software undergraduate | Front - end Developer</h3>
+<h3 align="center">A software undergraduate | Front - end Developer</h3>             https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif
 
 👨🏻‍💻 About Me
 
