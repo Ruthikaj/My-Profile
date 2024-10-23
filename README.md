@@ -1,6 +1,13 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
 <h3 align="center">A software undergraduate | Front - end Developer</h3>
-Mantra : Eat Sleep Code Repeat 🔥🔥 
+
+👨🏻‍💻 About Me
+
+I love the thrill of competition and the intellectual challenge that comes with it. Whether it's tackling complex algorithmic puzzles or optimizing code for efficiency, I'm always eager to push my limits and learn something new. My preferred platforms include Codeforces, LeetCode, HackerRank.
+
+Recently, I've embarked on a journey into the world of open source. I believe in the power of collaboration and community-driven development to create impactful software solutions.
+
+===Eat Sleep Code Repeat 🔥🔥 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthika&label=Profile%20views&color=0e75b6&style=flat" alt="ruthika" /> </p>
 
