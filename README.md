@@ -1,7 +1,5 @@
 <h1 align="center"> Hi 👋 I'm Ruthika ⚡ Here to hustle</h1>
-<h3 align="center">A software undergraduate | Front - end Developer</h3>             https://user-images.githubusercontent.com/121286615/260327520-90ee836f-1c6b-4824-9fd6-e344bb829d8a.gif
-
-👨🏻‍💻 About Me
+<h3 align="center">A software undergraduate | Front - end Developer</h3>            
 
 I love the thrill of competition and the intellectual challenge that comes with it. Whether it's tackling complex algorithmic puzzles or optimizing code for efficiency, I'm always eager to push my limits and learn something new. My preferred platforms include Codeforces, LeetCode, HackerRank.
 
