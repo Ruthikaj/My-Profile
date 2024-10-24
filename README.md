@@ -11,15 +11,15 @@ Recently, I've embarked on a journey into the world of open source. I believe in
 
 - 🔭 Currently working **on Devops and Mern Stack**
 
-- 🌱 I’m currently learning more about **Cloud Computing and Datascience**
+- 🌱  currently learning more about **Cloud Computing and Datascience**
 
-- 👯 I’m looking to collaborate on **interesting projects(more about Web 3.0)**
+- 👯  looking to collaborate on **interesting projects(more about Web 3.0)**
 
-- 🤝 I’m looking for help with **Open Source Contribution**
+- 🤝  looking for help with **Open Source Contribution**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Ruthika](https://hashnode.com/@Ruthika)
 
-- 📫 How to reach me **ruthikaj21@gmail.com**
+- 📫  reach me **ruthikaj21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
